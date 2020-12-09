@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What I Learned From My First SE Interview"
-date:       2020-12-09 23:12:43 +0000
+date:       2020-12-09 18:12:44 -0500
 permalink:  what_i_learned_from_my_first_se_interview
 ---
 
